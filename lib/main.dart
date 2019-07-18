@@ -13,7 +13,7 @@ class _MyApp extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Flutter',
+        title: '近课',
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
